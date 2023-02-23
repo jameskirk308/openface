@@ -44,6 +44,8 @@ Torch allows the network to be executed on a CPU or with CUDA.
   for discussions and installation issues.
 + Development discussions and bugs reports are on the
   [issue tracker](https://github.com/cmusatyalab/openface/issues).
+  + 5 Face Detection Project Ideas for Practice
+  [issue tracker]([https://github.com/cmusatyalab/openface/issues](https://www.projectpro.io/article/face-detection-projects/724).
 
 ---
 
